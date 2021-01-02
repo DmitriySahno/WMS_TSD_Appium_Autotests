@@ -1,0 +1,6 @@
+2020-11-06 11:06:23 : Step1. Login
+2020-11-06 11:06:23 : Enter login: Admin
+2020-11-06 11:06:24 : Get password by username: Admin
+2020-11-06 11:06:24 : Send password
+2020-11-06 11:06:32 : Selecting task: Прием
+2020-11-06 11:06:33 : Task Прием is selected
